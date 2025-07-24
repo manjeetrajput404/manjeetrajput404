@@ -4,4 +4,4 @@
 
 🌐 Check out my portfolio: https://manjeetrajput404.github.io/Personal-Portfolio/
 
-📫 Connect with me: manjeet@email.com
+📫 Connect with me: manjeetsinghji999114@email.com
