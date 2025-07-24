@@ -1,8 +1,7 @@
-- 👋 Hi, I’m manjeet rajput
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning java and javascript
+# 👋 Hi, I'm Manjeet!
 
-<!---
-manjeetrajput404/manjeetrajput404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🚀 I'm a web development enthusiast and currently learning full-stack development.
+
+🌐 Check out my portfolio: https://manjeetrajput404.github.io/Personal-Portfolio/
+
+📫 Connect with me: manjeet@email.com
