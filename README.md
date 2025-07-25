@@ -3,7 +3,7 @@
 🚀 I'm a passionate web development enthusiast, diving deep into **full-stack development**. I love building sleek, responsive websites and constantly learning new technologies in the web world.
 
 🌐 **Explore my portfolio**: [fluffy-stroopwafel-e6a649.netlify.app](https://fluffy-stroopwafel-e6a649.netlify.app)
-<hr>
+
 💻 **Tech Stack**:
 - HTML5, CSS3, JavaScript (ES6+)
 - C, CPP, Core Java
