@@ -7,7 +7,7 @@
 💻 **Tech Stack**:
 - HTML5, CSS3, JavaScript (ES6+)
 - C, CPP, Core Java
-- Mysql, Nodejs(learning)
+- Mysql, Nodejs (learning)
 - Git & GitHub
 
 📫 **Reach out**: [manjeetsinghji999114@email.com](mailto:manjeetsinghji999114@email.com)
