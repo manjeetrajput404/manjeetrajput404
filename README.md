@@ -30,28 +30,73 @@
 
 ## `> about --me`
 
+````markdown
+<h1 align="center">
+  Hi 👋, I'm Manjeet Rajput
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=MCA+Student;Aspiring+Software+Developer;Frontend+Developer;Java+%7C+JavaScript+%7C+SQL;Building+Practical+Web+Applications" />
+</p>
+
+<p align="center">
+  <i>Learning by building • Improving by doing • Growing every day 🚀</i>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+I'm an **MCA student** and **aspiring software developer** who enjoys turning ideas into practical applications and learning through hands-on development.
+
+> 💡 **Build → Learn → Improve → Repeat**
+
+### 🎯 Currently Focused On
+
 ```text
-I'm Manjeet Rajput, an MCA student and aspiring software developer
-who enjoys building practical web applications and learning by doing.
+🌐 Frontend Development
+☕ Core Java & OOP
+⚡ JavaScript
+🗄️ SQL & Database Development
+🔧 Backend & Full-Stack Development
+````
 
-Currently focused on:
-▸ Frontend Web Development
-▸ Core Java & Object-Oriented Programming
-▸ JavaScript
-▸ SQL & Database Development
-▸ Backend & Full-Stack Development
+### 🔭 Also Exploring
 
-Also exploring:
-▸ Data Analytics
-▸ Power BI
-▸ Python
-▸ Better software architecture & development practices
-
-My goal:
-▸ Build useful, real-world software
-▸ Write clean and maintainable code
-▸ Continuously learn and improve
+```text
+📊 Data Analytics
+📈 Power BI
+🐍 Python
+🏗️ Software Architecture
+🧩 Better Development Practices
 ```
+
+### 🚀 My Goals
+
+* 💻 Build **useful, real-world software**
+* 🧹 Write **clean and maintainable code**
+* 📚 Keep learning new technologies
+* 🧠 Strengthen problem-solving skills
+* 📈 Continuously improve as a developer
+
+<details>
+<summary><b>⚡ My Development Mindset</b></summary>
+
+<br>
+
+I believe the best way to learn software development is to **build real things**.
+
+Instead of only studying concepts, I try to apply them through projects, experiment with new technologies, learn from mistakes, and continuously improve the way I write and structure code.
+
+</details>
+
+---
+
+<p align="center">
+  <b>✨ Always learning. Always building. Always improving. ✨</b>
+</p>
+```
+
 
 ---
 
