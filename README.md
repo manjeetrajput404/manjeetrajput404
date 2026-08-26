@@ -26,31 +26,7 @@ see why the about section now working which i am add by code given by you : <!--
 
 </div>
 
----
-
-## `> about --me`
-
-````markdown
-<h1 align="center">
-  Hi 👋, I'm Manjeet Rajput
-</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=MCA+Student;Aspiring+Software+Developer;Frontend+Developer;Java+%7C+JavaScript+%7C+SQL;Building+Practical+Web+Applications" />
-</p>
-
-<p align="center">
-  <i>Learning by building • Improving by doing • Growing every day 🚀</i>
-</p>
-
----
-
-## 👨‍💻 About Me
-
-I'm an **MCA student** and **aspiring software developer** who enjoys turning ideas into practical applications and learning through hands-on development.
-
-> 💡 **Build → Learn → Improve → Repeat**
-
+--- ## `> about --me` <div align="center"> <p> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1200&color=7CFF4E&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Manjeet+Rajput+%F0%9F%91%8B;MCA+Student+%F0%9F%8E%93;Aspiring+Software+Developer+%F0%9F%92%BB;Frontend+Developer+%F0%9F%8C%90;Learning+Java+%7C+JavaScript+%7C+SQL;Building+Practical+Web+Applications+%F0%9F%9A%80" /> </p> <p> <i>Building with curiosity • Learning by doing • Improving every day</i> </p> </div> ### 👨‍💻 Who I Am I'm an **MCA student** and **aspiring software developer** passionate about building practical applications and turning ideas into working software. I learn best by **building real projects, solving problems, debugging, and continuously improving my code.** ---
 ### 🎯 Currently Focused On
 
 ```text
