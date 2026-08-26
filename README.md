@@ -1,381 +1,355 @@
-<!-- =========================================================
-     MANJEET RAJPUT — GITHUB PROFILE README
-     Terminal / Futuristic Developer Dashboard
-     ========================================================= -->
+<!-- 
+  GitHub Profile README - Manjeet Rajput
+  Customize: Update links, add new projects, modify skills as you grow
+<!--
+  GitHub Profile README — Manjeet Rajput
+  Terminal / Developer Dashboard Style
+-->
 
 <div align="center">
 
-<img src="https://github.com/manjeetrajput404.png" width="125" height="125" alt="Manjeet Rajput"/>
+# Hi  
+## I'm Manjeet Rajput  
+<img src="https://github.com/manjeetrajput404.png" width="120" height="120" style="border-radius: 50%;" />
 
-<br>
+### Frontend Web Developer | MCA Student | Building Full-Stack Solutions  
+# `> portfolio@manjeet:~$`
 
-```text
-● > manjeet@github:~$
-```
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=react&logoColor=white&labelColor=0F2027)](https://6a8e8140b4a14cee251ffb3b--personalportfoliomanjeet.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F2027)](https://www.linkedin.com/in/manjeet-rajput-553980382/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F2027)](mailto:manjeetsinghji999114@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F2027)](https://github.com/manjeetrajput404)
+# Hi! 👋 I'm **Manjeet Rajput**
 
-# 👋 Hello World!
-
-# I'm **Manjeet Rajput** 👨‍💻
-
-### `> Frontend Developer`
+### `MCA Student` • `Web Developer` • `Aspiring Full-Stack Developer` • `Problem Solver`
 
 <p>
-  <b>MCA Student</b>
-  &nbsp; • &nbsp;
-  <b>Developer</b>
-  &nbsp; • &nbsp;
-  <b>Problem Solver</b>
-  &nbsp; • &nbsp;
-  <b>Lifelong Learner</b>
+  <a href="https://6a8e8140b4a14cee251ffb3b--personalportfoliomanjeet.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-Visit-7CFF4E?style=for-the-badge&labelColor=0B0F0D" />
+  </a>
+  <a href="https://www.linkedin.com/in/manjeet-rajput-553980382/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F0D" />
+  </a>
+  <a href="mailto:manjeetsinghji999114@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F0D" />
+  </a>
+  <a href="https://github.com/manjeetrajput404">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F0D" />
+  </a>
 </p>
-
-<br>
-
-<a href="https://6a8e8140b4a14cee251ffb3b--personalportfoliomanjeet.netlify.app/">
-<img src="https://img.shields.io/badge/🌐_Portfolio-Visit-7CFF4E?style=for-the-badge&labelColor=0B0F0D" />
-</a>
-
-<a href="https://www.linkedin.com/in/manjeet-rajput-553980382/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0F0D" />
-</a>
-
-<a href="mailto:manjeetsinghji999114@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B0F0D" />
-</a>
-
-<a href="https://github.com/manjeetrajput404">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0B0F0D" />
-</a>
 
 </div>
 
 ---
 
-## `> about_me`
+## 👨‍💻 About Me
+## `> about --me`
 
-<table>
-<tr>
-
-<td width="55%" valign="middle">
-
-### 🟢 About Me
-
+- 🔭 I'm currently working as a **frontend web developer** and building full-stack solutions.
+- 🎓 I'm pursuing my **MCA** at Gateway Education of Engineering and Technology.
+- 💻 I have experience with various programming languages and technologies.
+- 🚀 I am proficient in **HTML, CSS, JavaScript, Python, Java**, and other languages.
+- 📊 I have worked on several projects and have a strong understanding of software development.
+- 🌱 Currently exploring **data analytics** and **Power BI** to expand my skill set.
+- 🎯 My mission is to build impactful projects that solve real-world problems.
 ```text
-MCA student passionate about building
-clean, responsive and user-friendly
-web applications.
+I'm Manjeet Rajput, an MCA student and aspiring software developer
+who enjoys building practical web applications and learning by doing.
+
+---
+Currently focused on:
+▸ Frontend Web Development
+▸ Core Java & Object-Oriented Programming
+▸ JavaScript
+▸ SQL & Database Development
+▸ Backend & Full-Stack Development
+
+## 🛠️ Skills
+
+### Programming Languages
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- Java
+- C++
+- C
+
+### Frontend Development
+- HTML5
+- CSS3
+- JavaScript
+- Responsive Design
+- UI/UX Principles
+
+### Backend & Runtime
+- Node.js
+- Express.js (learning)
+
+### Databases & Data
+- MySQL
+- SQL
+- PostgreSQL
+- Power BI
+- Data Visualization
+- Data Cleaning
+
+### Tools & Platforms
+- Git
+- GitHub
+- VS Code
+- Netlify
+- RESTful APIs
+
+### Methodologies & Practices
+- Agile methodology
+- Version control systems (Git)
+- Problem-solving and debugging
+- Teamwork and communication
+- Software design patterns
+- Continuous learning
+Also exploring:
+▸ Data Analytics
+▸ Power BI
+▸ Python
+▸ Better software architecture & development practices
+
+My goal:
+▸ Build useful, real-world software
+▸ Write clean and maintainable code
+▸ Continuously learn and improve
 ```
-
-<br>
-
-|    |                              |
-| -- | ---------------------------- |
-| 💻 | **Build** practical projects |
-| 📚 | **Learn** new technologies   |
-| 🚀 | **Improve** every day        |
-
-<br>
-
-> `Code → Learn → Build → Repeat`
-
-</td>
-
-<td width="45%" align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,mysql" />
-
-<br><br>
-
-```text
-⚡ Turning ideas into code
-```
-
-</td>
-
-</tr>
-</table>
 
 ---
 
+## 📈 Auto Update
 ## `> education`
 
+*Last updated: August 2026*
 <table>
 <tr>
+<td width="50%">
 
-<td width="50%" valign="top">
-
+---
 ### 🎓 MCA
 
+## 🚀 Featured Projects
 **Gateway Institute of Engineering and Technology**
 
+### 🔍 Lost & Found Portal
+*A campus web platform for reporting, searching, and claiming lost items*
 `Currently Pursuing`
 
-<br>
-
-🟢 **Current**
-
+**Tech Stack:** `HTML` `CSS` `JavaScript` `SQL`
 </td>
 
-<td width="50%" valign="top">
+**Key Features:**
+- Lost & found item listings with database integration
+- Advanced search and filtering capabilities
+- Fully responsive mobile-friendly UI
+- Secure user authentication system
+<td width="50%">
 
+[![View Repo](https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manjeetrajput404)
 ### 🎓 BCA
 
-**Deenbandhu Chhotu Ram University of Science and Technology, Murthal**
+**DCRUST, Murthal**
 
 `7.15 CGPA`
 
-<br>
-
-🔵 **Completed**
-
 </td>
-
 </tr>
 </table>
 
 ---
 
-## `> currently_learning`
+### 👷 Job Portal for Small Workers
+*A responsive platform connecting daily-wage workers with local employment opportunities*
+## `> skills --list`
 
-<div align="center">
+### 💻 Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,cpp,c" />
+</p>
+
+**Tech Stack:** `HTML` `CSS` `JavaScript`
+### 🌐 Web Development
+
+**Key Features:**
+- Curated job listings for small-scale workers
+- Intuitive job discovery and search
+- Mobile-first responsive design
+- Simple, accessible user interface
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
+</p>
+
+[![View Repo](https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manjeetrajput404)
+### 🗄️ Database & Data
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+<img src="https://img.shields.io/badge/SQL-0B0F0D?style=for-the-badge&logo=postgresql&logoColor=7CFF4E" />
+<img src="https://img.shields.io/badge/Power_BI-0B0F0D?style=for-the-badge&logo=powerbi&logoColor=F2C811" />
+</p>
+
+### 🛠️ Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,netlify" />
+</p>
+
+---
+
+### 📊 Power BI Data Analysis
+*Interactive dashboards transforming raw datasets into actionable business insights*
+## `> currently_learning`
 
 <table>
 <tr>
-
-<td align="center" width="20%">
+<td align="center" width="25%">
 
 ### ☕
 
-## Core Java
+**Core Java**
 
-`OOP`
-
-`Collections`
-
-`Exception Handling`
-
-<br>
-
-**████████░░**
-
-**80%**
+OOP • Collections • Exception Handling
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="25%">
 
 ### ⚡
 
-## JavaScript
+**JavaScript**
 
-`ES6+`
+**Tech Stack:** `Power BI` `Data Visualization` `Data Cleaning` `Dashboard Design`
+DOM • ES6+ • APIs
 
-`DOM`
-
-`APIs`
-
-<br>
-
-**███████░░░**
-
-**70%**
-
+**Key Features:**
+- Dynamic interactive dashboards
+- Data cleaning and transformation
+- Business intelligence visualizations
+- KPI tracking and reporting
 </td>
 
-<td align="center" width="20%">
+[![View Repo](https://img.shields.io/badge/📂_View_Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manjeetrajput404)
+<td align="center" width="25%">
 
 ### 🗄️
 
-## SQL
+**SQL**
 
-`Queries`
-
-`Database`
-
-`CRUD`
-
-<br>
-
-**███████░░░**
-
-**70%**
+Queries • Database Design • CRUD
 
 </td>
 
-<td align="center" width="20%">
+<td align="center" width="25%">
 
-### 🟢
+### 🚀
 
-## Node.js
+**Full-Stack**
 
-`Backend`
-
-`APIs`
-
-`Runtime`
-
-<br>
-
-**█████░░░░░**
-
-**50%**
+Frontend • Backend • Database
 
 </td>
-
-<td align="center" width="20%">
-
-### 📊
-
-## Power BI
-
-`Analytics`
-
-`Dashboards`
-
-`Visualization`
-
-<br>
-
-**██████░░░░**
-
-**60%**
-
-</td>
-
 </tr>
 </table>
 
-<br>
+> `learning_mode = ON` 🟢
 
-```text
-╭──────────────────────────────────────────────────────────────╮
-│                                                              │
-│   CURRENT FOCUS                                               │
-│                                                              │
-│   Java + OOP  ──►  JavaScript  ──►  SQL  ──►  Full Stack     │
-│                                                              │
-│   Building real projects while strengthening fundamentals.   │
-│                                                              │
-╰──────────────────────────────────────────────────────────────╯
-```
+---
+
+## `> activity --overview`
+
+<div align="center">
+
+### 📁 More Projects
+<img src="https://github-readme-stats.vercel.app/api?username=manjeetrajput404&show_icons=true&hide_border=true&theme=dark&bg_color=0B0F0D&title_color=7CFF4E&icon_color=7CFF4E&text_color=E5E7EB&count_private=true" height="180" />
+
+Explore my complete collection of experiments, coursework projects, and works in progress.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetrajput404&hide_border=true&background=0B0F0D&ring=7CFF4E&fire=7CFF4E&currStreakLabel=7CFF4E&sideLabels=E5E7EB&dates=9CA3AF" height="180" />
+
+[![🔎 Explore All Repositories](https://img.shields.io/badge/🔎_Explore_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/manjeetrajput404?tab=repositories)
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetrajput404&layout=compact&hide_border=true&theme=dark&bg_color=0B0F0D&title_color=7CFF4E&text_color=E5E7EB" />
 
 </div>
 
 ---
 
-## `> featured_projects`
+## 📊 GitHub Activity
+## `> latest_projects`
 
 <table>
 <tr>
 
 <td width="33%" valign="top">
 
-<div align="center">
+### 🔍 Lost & Found Portal
 
-### 🔍
+A campus web platform for reporting, searching, and claiming lost items.
 
-## Lost & Found Portal
-
-`WEB APP`
-
-</div>
-
-A campus platform designed to help students **report, search and claim lost items**.
-
-<br>
-
-**Tech Stack**
+**Stack**
 
 `HTML` `CSS`
 `JavaScript` `SQL`
 
-<br>
-
 **Features**
 
-* 🔎 Smart search & filtering
-* 📦 Lost item listings
+* 🔎 Search & filtering
+* 📦 Item listings
 * 🗄️ Database integration
-* 📱 Responsive interface
+* 📱 Responsive UI
 * 🔐 Authentication
 
 <br>
 
-<div align="center">
-
 <a href="https://github.com/manjeetrajput404?tab=repositories">
-<img src="https://img.shields.io/badge/🔗_View_Project-7CFF4E?style=for-the-badge&labelColor=0B0F0D" />
+<img src="https://img.shields.io/badge/View_Projects-7CFF4E?style=for-the-badge&labelColor=0B0F0D&logo=github&logoColor=white" />
 </a>
-
-</div>
 
 </td>
 
 <td width="33%" valign="top">
 
-<div align="center">
+### 👷 Job Portal
 
-### 👷
+A responsive platform connecting daily-wage workers with local employment opportunities.
 
-## Job Portal for Small Workers
-
-`WEB APP`
-
-</div>
-
-A platform connecting **daily-wage workers with local employment opportunities**.
-
-<br>
-
-**Tech Stack**
+**Stack**
 
 `HTML` `CSS`
 `JavaScript`
 
-<br>
-
 **Features**
 
 * 💼 Job listings
-* 🔎 Job discovery
+* 🔎 Search
 * 📱 Mobile-first UI
 * 🎯 Simple UX
 * ⚡ Responsive design
 
 <br>
 
-<div align="center">
-
 <a href="https://github.com/manjeetrajput404?tab=repositories">
-<img src="https://img.shields.io/badge/🔗_View_Project-FFA500?style=for-the-badge&labelColor=0B0F0D" />
+<img src="https://img.shields.io/badge/View_Projects-7CFF4E?style=for-the-badge&labelColor=0B0F0D&logo=github&logoColor=white" />
 </a>
-
-</div>
 
 </td>
 
 <td width="33%" valign="top">
 
-<div align="center">
+### 📊 Power BI Dashboard
 
-### 📊
+Interactive dashboards transforming raw datasets into useful visual insights.
 
-## Power BI Dashboard
-
-`DATA ANALYTICS`
-
-</div>
-
-Interactive dashboards that transform **raw data into meaningful visual insights**.
-
-<br>
-
-**Tools**
+**Stack**
 
 `Power BI` `SQL`
 `Data Cleaning`
-
-<br>
 
 **Features**
 
@@ -386,13 +360,9 @@ Interactive dashboards that transform **raw data into meaningful visual insights
 
 <br>
 
-<div align="center">
-
 <a href="https://github.com/manjeetrajput404?tab=repositories">
-<img src="https://img.shields.io/badge/🔗_View_Dashboard-38A0FF?style=for-the-badge&labelColor=0B0F0D" />
+<img src="https://img.shields.io/badge/View_Projects-7CFF4E?style=for-the-badge&labelColor=0B0F0D&logo=github&logoColor=white" />
 </a>
-
-</div>
 
 </td>
 
@@ -401,86 +371,106 @@ Interactive dashboards that transform **raw data into meaningful visual insights
 
 ---
 
-## `> explore_more`
+## `> more_projects`
 
 <div align="center">
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=manjeetrajput404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0F2027&title_color=38BDF8&icon_color=38BDF8)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=manjeetrajput404&theme=tokyonight&hide_border=true&background=0F2027&ring=38BDF8&fire=38BDF8)
 ```text
-╭────────────────────────────────────────────────────────────────────╮
-│                                                                    │
-│   📁  EXPLORE MORE PROJECTS                                       │
-│                                                                    │
-│   I love experimenting with new ideas and turning them into        │
-│   real projects, experiments and useful solutions.                 │
-│                                                                    │
-│   Check out more of my work, experiments and contributions.         │
-│                                                                    │
-╰────────────────────────────────────────────────────────────────────╯
+┌───────────────────────────────────────────────────────────┐
+│                                                           │
+│   Exploring • Building • Experimenting • Improving       │
+│                                                           │
+│              More projects on GitHub ↓                    │
+│                                                           │
+└───────────────────────────────────────────────────────────┘
 ```
 
-<br>
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetrajput404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=38BDF8)
 <a href="https://github.com/manjeetrajput404?tab=repositories">
-<img src="https://img.shields.io/badge/🚀_View_All_Repositories-7CFF4E?style=for-the-badge&labelColor=0B0F0D&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/🚀_Explore_All_Repositories-7CFF4E?style=for-the-badge&labelColor=0B0F0D&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## `> let's_connect`
+## 📈 Learning Progress
+## `> development --philosophy`
 
-<table>
-<tr>
+| Area | Progress |
+|------|----------|
+| Frontend Development | ████████████████████░░ `85%` |
+| JavaScript | █████████████████░░░░░ `75%` |
+| SQL & Databases | ████████████████░░░░░░ `70%` |
+| Power BI | ███████████████░░░░░░░ `65%` |
+| Node.js | ██████████░░░░░░░░░░░░ `50%` |
+| Full-Stack Development | ████████░░░░░░░░░░░░░░ `40%` |
+```text
+01  BUILD       → Turn ideas into working projects
+02  LEARN       → Understand the technology behind them
+03  DEBUG       → Break things and figure out why
+04  IMPROVE     → Refactor, optimize and simplify
+05  REPEAT      → Keep building and growing
+```
 
-<td width="55%" valign="middle">
+> 🎯 **Current Goal:** Strengthen JavaScript, backend, database, and data-analysis skills while building production-ready projects.
+> **"The best way to learn development is to build."**
 
-### 🟢 Let's Connect
+---
 
-I'm always open to:
+## 💡 Development Philosophy
+## `> goals --current`
 
-`Collaborations` • `Learning` • `Tech Discussions`
+```yaml
+2026:
+  primary:
+    - Strengthen Core Java & OOP
+    - Improve JavaScript
+    - Master SQL & databases
+    - Build full-stack applications
+
+  secondary:
+    - Explore Data Analytics
+    - Improve Power BI skills
+    - Build better portfolio projects
+    - Contribute to open-source projects
+
+- **Simplicity over complexity** — Write clean, maintainable code
+- **User-first design** — Every pixel should serve a purpose
+- **Continuous growth** — Every bug is a lesson, every project a step forward
+- **Impact** — Build tools that help real people
+  objective:
+    "Become a strong software developer by building real-world solutions."
+```
+
+---
+
+## `> connect --with-me`
+
+<div align="center">
+
+### ✨ Let's Connect
+### Let's build something useful. 🚀
+
+I'm always interested in **learning, collaborating, building projects, and connecting with other developers.**
 
 <br>
-
-Have an idea or want to build something together?
-
-**Let's connect and create something awesome. 🚀**
-
-</td>
-
-<td width="45%" align="center">
 
 <a href="https://6a8e8140b4a14cee251ffb3b--personalportfoliomanjeet.netlify.app/">
 <img src="https://img.shields.io/badge/🌐_Portfolio-7CFF4E?style=for-the-badge&labelColor=0B0F0D" />
 </a>
 
-<br><br>
-
 <a href="https://www.linkedin.com/in/manjeet-rajput-553980382/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-<br><br>
-
 <a href="mailto:manjeetsinghji999114@gmail.com">
-<img src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br><br>
-
-<a href="https://github.com/manjeetrajput404">
-<img src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</td>
-
-</tr>
-</table>
-
----
-
-<div align="center">
 
 ```text
 > connection.status = "OPEN"
@@ -488,8 +478,21 @@ Have an idea or want to build something together?
 > learning.status = "ALWAYS"
 ```
 
-### 💚 Thanks for visiting!
+### ⭐ Thanks for visiting my profile!
 
-**Let's build something amazing together. 🚀**
+</div>
+
+---
+
+<div align="center">
+
+I'm always open to collaborations, mentorship, or just a good tech chat.  
+Reach out—let's build something awesome together.
+`Built with ❤️, curiosity & lots of debugging`
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=react&logoColor=white)](https://6a8e8140b4a14cee251ffb3b--personalportfoliomanjeet.netlify.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manjeet-rajput-553980382/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:manjeetsinghji999114@gmail.com)
+**Manjeet Rajput • MCA Student • Developer**
 
 </div>
