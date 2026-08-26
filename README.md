@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://fluffy-stroopwafel-e6a649.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-2F81F7?style=for-the-badge" alt="Portfolio"/>
+  <a href="https://6a8e8140b4a14cee251ffb3b--personalportfoliomanjeet.netlify.app/">
+    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-2F81F7?style=for-the-badg" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/manjeet-rajput-553980382/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
