@@ -1,194 +1,210 @@
-<h1 align="center">Hey there, I'm Manjeet 👋</h1>
+<div align="center">
 
-<p align="center">
-  <strong>MCA Student • Frontend Web Developer • Aspiring Full-Stack Developer</strong>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=200&section=header&text=Hey%20There,%20I'm%20Manjeet%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Frontend%20Web%20Developer%20%7C%20MCA%20Student%20%7C%20Full-Stack%20in%20Progress&descAlignY=55&descSize=16" width="100%"/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Frontend+Web+Developer;MCA+Student;Building+Responsive+Web+Experiences;Learning+Full-Stack+Development;Turning+Ideas+Into+Projects" alt="Typing SVG" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Frontend+Web+Developer;MCA+Student;Building+Responsive+Web+Experiences;Learning+Full-Stack+Development;Turning+Ideas+Into+Projects" alt="Typing SVG"/>
 
-<p align="center">
-  <a href="https://6a8e8140b4a14cee251ffb3b--personalportfoliomanjeet.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-2F81F7?style=for-the-badg" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/manjeet-rajput-553980382/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:manjeetsinghji999114@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
+<br/>
 
----
+<a href="https://6a8e8140b4a14cee251ffb3b--personalportfoliomanjeet.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-38BDF8?style=for-the-badge&labelColor=0F2027" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/manjeet-rajput-553980382/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F2027" alt="LinkedIn"/>
+</a>
+<a href="mailto:manjeetsinghji999114@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F2027" alt="Email"/>
+</a>
+
+</div>
+
+<br/>
 
 ## 👨‍💻 About Me
 
-I'm **Manjeet**, an MCA student and frontend web developer who enjoys building **clean, responsive, and user-friendly web applications**.
+I'm **Manjeet**, an MCA student and frontend web developer who enjoys building **clean, responsive, and user-friendly web applications**. I like turning ideas into practical projects and continuously sharpening my skills by exploring new technologies.
 
-I like turning ideas into practical projects and continuously improving my development skills by learning new technologies and building real-world applications.
+```yaml
+education:
+  masters: "MCA @ Gateway Education of Engineering and Technology"
+  bachelors: "BCA @ DCRUST, Murthal — 7.15 CGPA"
+focus: "Frontend Web Development"
+currently_learning: ["Node.js", "SQL & Databases", "Full-Stack Development"]
+exploring: ["Data Analytics", "Power BI"]
+mission: "Build projects that solve real-world problems 🚀"
+contact: "manjeetsinghji999114@gmail.com"
+```
 
-* 🎓 Pursuing **MCA** at Gateway Education of Engineering and Technology
-* 🎓 Completed **BCA** from **DCRUST, Murthal** with a **7.15 CGPA**
-* 💻 Focused on **Frontend Web Development**
-* 🌱 Currently learning **Node.js** and exploring **Full-Stack Development**
-* 🗄️ Learning **SQL & Database Management**
-* 📊 Exploring **Data Analytics & Power BI**
-* 🚀 Interested in building projects that solve real-world problems
-* 📫 Reach me at **[manjeetsinghji999114@gmail.com](mailto:manjeetsinghji999114@gmail.com)**
-
----
+<br/>
 
 ## 🛠️ Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-</p>
+**Languages**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 
-### 🌐 Web Development
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" />
-</p>
+**Web Development**
+<br/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-### 🗄️ Database
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
+**Database & Data**
+<br/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-### 📊 Data & Analytics
+<br/><br/>
 
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-</p>
+**Tools & Platforms**
+<br/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-### 🔧 Tools & Platforms
+</div>
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" />
-</p>
-
----
+<br/>
 
 ## 🚀 Featured Projects
 
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
 ### 🔍 Lost & Found Portal
+A web-based platform to help students **report, search, and claim lost items** within a campus environment.
 
-A web-based platform designed to help students **report, search, and claim lost items** within a campus environment.
+- 📌 Lost & found item listings
+- 🔎 Search and filtering
+- 📱 Responsive UI
+- 🗃️ Database integration
 
-**Highlights:**
+`HTML` `CSS` `JavaScript` `SQL`
 
-* 📌 Lost & found item listings
-* 🔎 Search and filtering
-* 📱 Responsive user interface
-* 🗃️ Database integration
-
-**Tech:** `HTML` `CSS` `JavaScript` `SQL`
-
----
+</td>
+<td width="50%" valign="top">
 
 ### 👷 Job Portal for Small Workers
+A responsive platform helping **daily-wage and small-scale workers** discover local employment opportunities.
 
-A responsive platform designed to help **daily-wage and small-scale workers discover local employment opportunities**.
+- 💼 Job listings
+- 🔎 Easy job discovery
+- 📱 Mobile-friendly interface
+- 🎯 Simple, accessible UI
 
-**Highlights:**
+`HTML` `CSS` `JavaScript`
 
-* 💼 Job listings
-* 🔎 Easy job discovery
-* 📱 Mobile-friendly interface
-* 🎯 Simple and accessible UI
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
----
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 📊 Power BI Data Analysis
+Interactive dashboards built while learning **Power BI and data visualization**, turning raw datasets into useful business insights.
 
-Interactive dashboards created while learning **Power BI and data visualization**, focusing on transforming datasets into useful business insights.
+`Power BI` `Data Visualization` `Data Cleaning` `Dashboard Design`
 
-**Skills:** `Power BI` `Data Visualization` `Data Cleaning` `Dashboard Design`
+</td>
+<td width="50%" valign="top">
 
----
+### ✨ More on GitHub
+Explore the full collection of experiments, coursework projects, and works in progress.
 
-<p align="center">
-  <a href="https://github.com/manjeetrajput404?tab=repositories">
-    <img src="https://img.shields.io/badge/🔎%20Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
-  </a>
-</p>
+<a href="https://github.com/manjeetrajput404?tab=repositories">
+  <img src="https://img.shields.io/badge/🔎%20Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="All Projects"/>
+</a>
 
----
+</td>
+</tr>
+</table>
+
+<br/>
 
 ## 📈 Currently Learning
 
-```text
-Frontend Development   ████████████████████░░  85%
-JavaScript             █████████████████░░░░░  75%
-SQL & Databases        ████████████████░░░░░░  70%
-Power BI               ███████████████░░░░░░░  65%
-Node.js                ██████████░░░░░░░░░░░░  50%
-Full-Stack Development ████████░░░░░░░░░░░░░░  40%
-```
+<div align="center">
+
+| Skill | Progress |
+|:--|:--|
+| Frontend Development | ████████████████████░░ `85%` |
+| JavaScript | █████████████████░░░░░ `75%` |
+| SQL & Databases | ████████████████░░░░░░ `70%` |
+| Power BI | ███████████████░░░░░░░ `65%` |
+| Node.js | ██████████░░░░░░░░░░░░ `50%` |
+| Full-Stack Development | ████████░░░░░░░░░░░░░░ `40%` |
+
+</div>
 
 > 🚀 My current goal is to strengthen my JavaScript, backend, database, and data-analysis skills while building more practical projects.
 
----
+<br/>
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manjeetrajput404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetrajput404&theme=tokyonight&hide_border=true" height="165" alt="GitHub Streak"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetrajput404&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=manjeetrajput404&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0F2027&title_color=38BDF8&icon_color=38BDF8" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=manjeetrajput404&theme=tokyonight&hide_border=true&background=0F2027&ring=38BDF8&fire=38BDF8" height="165" alt="GitHub Streak"/>
 
----
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manjeetrajput404&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=38BDF8" alt="Top Languages"/>
+
+</div>
+
+<br/>
 
 ## 🎯 My Development Journey
 
+<div align="center">
+
 ```text
-Learn → Build → Break → Debug → Improve → Repeat 🔁
+Learn  →  Build  →  Break  →  Debug  →  Improve  →  Repeat 🔁
 ```
+
+</div>
 
 I believe the best way to learn development is by **building real projects**, experimenting with new technologies, and continuously improving existing work.
 
----
+<br/>
 
 ## 🤝 Let's Connect
 
-<p align="center">
-  <a href="https://fluffy-stroopwafel-e6a649.netlify.app/">
-    <img src="https://img.shields.io/badge/🌐%20Portfolio-2F81F7?style=for-the-badge" alt="Portfolio"/>
-  </a>
-  <a href="https://www.linkedin.com/in/manjeet-rajput-553980382/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:manjeetsinghji999114@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=manjeetrajput404&label=Profile%20Views&color=2F81F7&style=flat-square" alt="Profile Views"/>
-</p>
+<a href="https://fluffy-stroopwafel-e6a649.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐%20Portfolio-38BDF8?style=for-the-badge&labelColor=0F2027" alt="Portfolio"/>
+</a>
+<a href="https://www.linkedin.com/in/manjeet-rajput-553980382/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F2027" alt="LinkedIn"/>
+</a>
+<a href="mailto:manjeetsinghji999114@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F2027" alt="Gmail"/>
+</a>
 
-<p align="center">
-  <i>Thanks for visiting my profile! ⭐ Feel free to explore my repositories.</i>
-</p>
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=manjeetrajput404&label=Profile%20Views&color=38BDF8&style=for-the-badge" alt="Profile Views"/>
+
+<br/><br/>
+
+<i>Thanks for visiting my profile! ⭐ Feel free to explore my repositories.</i>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:0F2027&height=100&section=footer" width="100%"/>
+
+</div>
