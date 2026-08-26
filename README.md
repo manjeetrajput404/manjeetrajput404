@@ -5,10 +5,6 @@
 
 <div align="center">
 
-<img src="https://github.com/manjeetrajput404.png" width="120" height="120" style="border-radius: 50%;" />
-
-# `> portfolio@manjeet:~$`
-
 # Hi! 👋 I'm **Manjeet Rajput**
 
 ### `MCA Student` • `Web Developer` • `Aspiring Full-Stack Developer` • `Problem Solver`
@@ -77,7 +73,7 @@ My goal:
 
 ### 🎓 BCA
 
-**DCRUST, Murthal**
+**Deenbandhu Chhotu Ram University of Science and Technology, Murthal**
 
 `7.15 CGPA`
 
@@ -280,7 +276,7 @@ Interactive dashboards transforming raw datasets into useful visual insights.
 ```text
 ┌───────────────────────────────────────────────────────────┐
 │                                                           │
-│   Exploring • Building • Experimenting • Improving       │
+│   Exploring • Building • Experimenting • Improving        │
 │                                                           │
 │              More projects on GitHub ↓                    │
 │                                                           │
@@ -309,27 +305,6 @@ Interactive dashboards transforming raw datasets into useful visual insights.
 
 ---
 
-## `> goals --current`
-
-```yaml
-2026:
-  primary:
-    - Strengthen Core Java & OOP
-    - Improve JavaScript
-    - Master SQL & databases
-    - Build full-stack applications
-
-  secondary:
-    - Explore Data Analytics
-    - Improve Power BI skills
-    - Build better portfolio projects
-    - Contribute to open-source projects
-
-  objective:
-    "Become a strong software developer by building real-world solutions."
-```
-
----
 
 ## `> connect --with-me`
 
