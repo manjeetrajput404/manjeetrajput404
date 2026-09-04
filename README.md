@@ -1,123 +1,169 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E86FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Manjeet;Aspiring+Software+Developer;Web+Development+Enthusiast;Database+%26+SQL+Learner;Exploring+Data+Analytics)](https://git.io/typing-svg)
+# 👋 Hey, I'm Manjeet
 
-I'm building my foundation in software development through hands-on projects in web development, databases, and data analytics. Currently pursuing MCA after completing my BCA, I believe in learning by building rather than just studying theory.
+### Aspiring Software Developer • Web Development • SQL & Databases • Data Analytics
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2E86FF&center=true&vCenter=true&width=650&lines=Building+projects%2C+not+just+watching+tutorials;Learning+Java+%7C+JavaScript+%7C+Python+%7C+SQL;Exploring+Web+Development+%26+Data+Analytics;Turning+ideas+into+practical+projects" alt="Typing SVG" />
+
+<br>
+
+<p>
+  <i>
+    MCA student focused on building a strong foundation in software development,
+    databases, web technologies, and data analytics.
+  </i>
+</p>
+
+<p>
+  <a href="https://github.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:YOUR_EMAIL">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://YOUR_PORTFOLIO_URL">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2E86FF&style=flat-square" alt="Profile views" />
 
 </div>
 
 ---
 
-## Current Status
+## 🧑‍💻 About Me
 
-| | |
-|---|---|
-| 🚀 **Currently Learning** | Java, JavaScript, Python, SQL, DSA, Data Analytics |
-| 💻 **Building** | Library Management System, SQL practice projects, web apps |
-| 📊 **Exploring** | Power BI, data analytics dashboards, database design |
-| 🎯 **Goal** | Land an internship in web development / data analytics |
+I'm an **MCA student and aspiring software developer** who enjoys learning by building practical projects.
 
----
+My current focus is developing a strong foundation across **programming, web development, databases, Git/GitHub, DSA, and data analytics**.
 
-## About Me
+Rather than only following tutorials, I try to turn what I learn into small projects and experiments that help me understand how things actually work.
 
-- 🔭 Currently working on practical projects in web development, databases, and data analytics
-- 🤝 Open to collaborating on beginner-friendly web development, Java, database, and data analytics projects
-- 🆘 Looking for guidance on problem-solving, DSA, backend development, and writing better project-level code
-- 🌱 Learning Java, JavaScript, Python, SQL, Git/GitHub, web development, databases, DSA, and data analytics
-- 💬 Happy to talk about Java, HTML/CSS, JavaScript, SQL, Git/GitHub, and beginner web projects
-- ⚡ Fun fact: I turn everything I learn into a project — it's how I actually understand it
-- 🎓 BCA graduate, currently pursuing MCA at Gateway Education of Engineering and Technology
+### What I'm working toward
+
+- 🧠 Strengthening **programming fundamentals & problem solving**
+- ☕ Improving my **Java & OOP** skills
+- 🌐 Building practical **web development projects**
+- 🗄️ Becoming stronger with **SQL & database design**
+- 📊 Learning **Data Analytics & Power BI**
+- 🔧 Understanding **backend development**
+- 🚀 Building projects that demonstrate real-world problem solving
 
 ---
 
-## Tech Stack
+## 🎯 Current Focus
 
-**Languages**
+<table>
+<tr>
+<td width="50%">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+### 🚀 Currently Learning
 
-**Frontend**
+- Java
+- JavaScript
+- Python
+- SQL
+- Data Structures & Algorithms
+- Git & GitHub
+- Web Development
+- Database Concepts
+- Data Analytics
+- Power BI
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+</td>
 
-**Database**
+<td width="50%">
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+### 🔨 Currently Building
 
-**Tools**
+- Library Management System
+- SQL Practice Projects
+- Database Projects
+- Small Web Applications
+- Data Analytics Dashboards
+- HTML/CSS Practice Projects
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+</td>
+</tr>
+</table>
 
-**Data & Analytics**
+---
+
+# 🛠️ Tech Stack
+
+### 👨‍💻 Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" />
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### 📊 Data & Analytics
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-4285F4?style=for-the-badge&logo=googleanalytics&logoColor=white)
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
 
-*Currently exploring: Node.js*
+### 🔧 Tools & Platforms
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
-## Learning Roadmap
+# 📚 Learning Journey
 
 ```text
+                    MY DEVELOPMENT JOURNEY
+
 HTML + CSS
-     ↓
+    │
+    ▼
 JavaScript
-     ↓
+    │
+    ▼
 Java + OOP
-     ↓
-SQL + Databases
-     ↓
+    │
+    ▼
+SQL + Database Concepts
+    │
+    ▼
 Git + GitHub
-     ↓
-DSA + Problem Solving
-     ↓
+    │
+    ▼
+Data Structures & Algorithms
+    │
+    ▼
 Backend Development
-     ↓
-Full-Stack Projects
-     ↓
-Data Analytics / Power BI
-```
-
----
-
-## Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **Library Management System** | A layered-architecture application demonstrating Core Java and OOP concepts | Java, Servlets, MySQL, JDBC |
-| **Lost and Found Portal** | A web platform to help users report and find lost items | HTML, CSS, JavaScript |
-| **Job Portal for Small Workers** | A platform connecting small-scale workers with job opportunities | HTML, CSS, JavaScript |
-
-*More projects in progress — check my [pinned repositories](https://github.com/YOUR_USERNAME?tab=repositories) for the latest.*
-
----
-
-<div align="center">
-
-### Let's Connect
-
-I'm always open to learning opportunities, collaborations, and feedback on my projects.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-
-⭐️ From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-
-</div>
+    │
+    ▼
+Full-Stack Applications
+    │
+    ├───────────────┐
+    ▼               ▼
+Data Analytics    Power BI
+    │               │
+    └───────┬───────┘
+            ▼
+     Real-World Projects
