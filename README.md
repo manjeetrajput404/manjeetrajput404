@@ -1,8 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Manjeet
-
-### Aspiring Software Developer | Web Development | Databases | Data Analytics
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=2E86FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Manjeet;Aspiring+Software+Developer;Web+Development+Enthusiast;Database+%26+SQL+Learner;Exploring+Data+Analytics)](https://git.io/typing-svg)
 
 I'm building my foundation in software development through hands-on projects in web development, databases, and data analytics. Currently pursuing MCA after completing my BCA, I believe in learning by building rather than just studying theory.
 
@@ -108,19 +106,6 @@ Data Analytics / Power BI
 | **Job Portal for Small Workers** | A platform connecting small-scale workers with job opportunities | HTML, CSS, JavaScript |
 
 *More projects in progress — check my [pinned repositories](https://github.com/YOUR_USERNAME?tab=repositories) for the latest.*
-
----
-
-## GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true)
-
-</div>
 
 ---
 
