@@ -2,16 +2,16 @@
 
 # 👋 Hey, I'm Manjeet
 
-### Aspiring Software Developer • Web Development • SQL & Databases • Data Analytics
+### Aspiring Software Developer • Web Development • Java • Backend Development
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2E86FF&center=true&vCenter=true&width=650&lines=Building+projects%2C+not+just+watching+tutorials;Learning+Java+%7C+JavaScript+%7C+Python+%7C+SQL;Exploring+Web+Development+%26+Data+Analytics;Turning+ideas+into+practical+projects" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&color=2E86FF&center=true&vCenter=true&width=700&lines=Building+projects%2C+not+just+watching+tutorials;Learning+Java+%7C+JavaScript+%7C+Python;Exploring+Backend+%26+Full-Stack+Development;Writing+code%2C+solving+problems%2C+building+applications;Turning+ideas+into+working+projects" alt="Typing SVG" />
 
 <br>
 
 <p>
   <i>
-    MCA student focused on building a strong foundation in software development,
-    databases, web technologies, and data analytics.
+    MCA student focused on building practical software development skills
+    through projects, problem solving, and continuous learning.
   </i>
 </p>
 
@@ -30,63 +30,59 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=2E86FF&style=flat-square" alt="Profile views" />
-
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm an **MCA student and aspiring software developer** who enjoys learning by building practical projects.
+I'm an **MCA student and aspiring software developer** with a strong interest in building practical applications and understanding how software works behind the scenes.
 
-My current focus is developing a strong foundation across **programming, web development, databases, Git/GitHub, DSA, and data analytics**.
+My current development journey is centered around **Java, web development, JavaScript, databases, Git/GitHub, and Data Structures & Algorithms**.
 
-Rather than only following tutorials, I try to turn what I learn into small projects and experiments that help me understand how things actually work.
+I enjoy taking concepts I learn and turning them into working projects. My goal is to gradually move from small applications and academic projects toward **well-structured, real-world software and full-stack applications**.
 
-### What I'm working toward
-
-- 🧠 Strengthening **programming fundamentals & problem solving**
-- ☕ Improving my **Java & OOP** skills
-- 🌐 Building practical **web development projects**
-- 🗄️ Becoming stronger with **SQL & database design**
-- 📊 Learning **Data Analytics & Power BI**
-- 🔧 Understanding **backend development**
-- 🚀 Building projects that demonstrate real-world problem solving
+- 🎓 BCA Graduate | Currently pursuing MCA
+- 💻 Focused on Software & Web Development
+- ☕ Developing strong foundations in Java and OOP
+- 🌐 Building interactive web applications
+- 🗄️ Learning database-driven application development
+- 🧠 Practicing DSA and problem solving
+- 🔧 Improving Git/GitHub and development workflows
+- 🚀 Exploring backend and full-stack development
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 <table>
 <tr>
 <td width="50%">
 
-### 🚀 Currently Learning
+### 💻 Development
 
-- Java
+- Java & Object-Oriented Programming
 - JavaScript
-- Python
-- SQL
-- Data Structures & Algorithms
+- HTML & CSS
+- Web Application Development
+- Backend Development
+- JDBC & Servlets
+- Database Integration
 - Git & GitHub
-- Web Development
-- Database Concepts
-- Data Analytics
-- Power BI
 
 </td>
 
 <td width="50%">
 
-### 🔨 Currently Building
+### 🧠 Problem Solving
 
-- Library Management System
-- SQL Practice Projects
-- Database Projects
-- Small Web Applications
-- Data Analytics Dashboards
-- HTML/CSS Practice Projects
+- Data Structures & Algorithms
+- Programming Fundamentals
+- Logical Problem Solving
+- Writing Clean & Readable Code
+- Debugging
+- Understanding Software Architecture
+- Building Projects from Scratch
 
 </td>
 </tr>
@@ -96,17 +92,32 @@ Rather than only following tutorials, I try to turn what I learn into small proj
 
 # 🛠️ Tech Stack
 
-### 👨‍💻 Programming Languages
+### 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,js,c,cpp" />
 </p>
 
-### 🌐 Web Development
+### 🌐 Frontend Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,nodejs" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+### ⚙️ Backend & Application Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs" />
+</p>
+
+![Java Servlets](https://img.shields.io/badge/Java%20Servlets-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-007396?style=for-the-badge&logo=java&logoColor=white)
+
+*Currently exploring backend development and building stronger server-side fundamentals.*
 
 ### 🗄️ Databases
 
@@ -114,56 +125,181 @@ Rather than only following tutorials, I try to turn what I learn into small proj
 <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
 </p>
 
-### 📊 Data & Analytics
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=databricks&logoColor=white)
-
-### 🔧 Tools & Platforms
+### 🔧 Tools & Development Environment
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 ---
 
-# 📚 Learning Journey
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## 📚 Library Management System
+
+A practical application focused on managing library operations while applying **Core Java, OOP, database connectivity, and layered application architecture**.
+
+### Built With
+
+`Java` `Servlets` `JDBC` `MySQL`
+
+### Key Focus
+
+- Object-Oriented Programming
+- CRUD operations
+- Database connectivity
+- Application architecture
+- Backend logic
+
+</td>
+
+<td width="50%">
+
+## 🔎 Lost & Found Portal
+
+A web-based application concept designed to help users report, search, and manage lost and found items.
+
+### Built With
+
+`HTML` `CSS` `JavaScript`
+
+### Key Focus
+
+- Frontend development
+- UI design
+- JavaScript logic
+- Forms & user interaction
+- Web application structure
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 💼 Job Portal for Small Workers
+
+A web application concept designed to connect small-scale workers with relevant job opportunities.
+
+### Built With
+
+`HTML` `CSS` `JavaScript`
+
+### Key Focus
+
+- Web development
+- User interfaces
+- JavaScript functionality
+- Application workflow
+- Problem solving
+
+</td>
+
+<td width="50%">
+
+## 🧪 More Projects Coming
+
+I'm continuously building smaller projects and experiments to strengthen my development fundamentals.
+
+### Areas
+
+`Java` `JavaScript` `SQL` `Web Development` `DSA`
+
+> Check my repositories for projects, experiments, and learning progress.
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🧠 Development Skills I'm Building
+
+<div align="center">
+
+| Area | Focus |
+|:---:|:---|
+| ☕ **Java** | OOP, Collections, Exception Handling, Application Development |
+| 🌐 **Web** | HTML, CSS, JavaScript, Responsive Interfaces |
+| ⚙️ **Backend** | Servlets, JDBC, Server-Side Fundamentals |
+| 🗄️ **Databases** | SQL, MySQL, CRUD, Relationships & Queries |
+| 🧠 **DSA** | Data Structures, Algorithms & Problem Solving |
+| 🔧 **Git** | Version Control, Branching & Collaboration |
+| 🏗️ **Projects** | Building practical applications from scratch |
+
+</div>
+
+---
+
+# 📈 GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="170" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🎯 Goals
+
+### 🚀 Short-Term
+
+- [ ] Strengthen Java and OOP fundamentals
+- [ ] Build more Java-based applications
+- [ ] Improve JavaScript and frontend development
+- [ ] Practice DSA consistently
+- [ ] Build database-driven applications
+- [ ] Learn backend development
+- [ ] Improve Git/GitHub workflow
+
+### 🏗️ Long-Term
+
+- [ ] Become a strong software developer
+- [ ] Build complete full-stack applications
+- [ ] Develop production-style projects
+- [ ] Strengthen backend engineering skills
+- [ ] Contribute to open-source projects
+- [ ] Gain professional software development experience
+
+---
+
+# 💡 How I Learn
 
 ```text
-                    MY DEVELOPMENT JOURNEY
-
-HTML + CSS
-    │
-    ▼
-JavaScript
-    │
-    ▼
-Java + OOP
-    │
-    ▼
-SQL + Database Concepts
-    │
-    ▼
-Git + GitHub
-    │
-    ▼
-Data Structures & Algorithms
-    │
-    ▼
-Backend Development
-    │
-    ▼
-Full-Stack Applications
-    │
-    ├───────────────┐
-    ▼               ▼
-Data Analytics    Power BI
-    │               │
-    └───────┬───────┘
-            ▼
-     Real-World Projects
+        LEARN
+          ↓
+     UNDERSTAND
+          ↓
+        BUILD
+          ↓
+        DEBUG
+          ↓
+       IMPROVE
+          ↓
+        REPEAT
