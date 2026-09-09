@@ -4,7 +4,7 @@
 
 ### *Aspiring Software Developer | Backend Enthusiast | Problem Solver*
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=2E86FF&center=true&vCenter=true&width=700&lines=Building+projects%2C+not+just+watching+tutorials;Java+%7C+JavaScript+%7C+Python+Developer;Exploring+Backend+%26+Full-Stack+Development;Turning+ideas+into+working+applications;MCA+Student+%26+Software+Engineer+in+Making" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=deed05&center=true&vCenter=true&width=700&lines=Building+projects%2C+not+just+watching+tutorials;Java+%7C+JavaScript+%7C+Python+Developer;Exploring+Backend+%26+Full-Stack+Development;Turning+ideas+into+working+applications;MCA+Student+%26+Software+Engineer+in+Making" alt="Typing SVG" />
 
 <br>
 
