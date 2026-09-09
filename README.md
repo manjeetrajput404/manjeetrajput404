@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 Manjeet
+#  Manjeet Rajput
 
 ### *Aspiring Software Developer | Backend Enthusiast | Problem Solver*
 
